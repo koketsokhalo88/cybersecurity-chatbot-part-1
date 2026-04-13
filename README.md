@@ -42,3 +42,20 @@ A talking C# console application that teaches cybersecurity basics using Windows
 
 ## License
 MIT License - Free to use and modify
+
+
+
+# 🔒 Cybersecurity Awareness Chatbot
+
+[![YouTube Video]
+https://youtu.be/pAEQVquN4AU
+
+🎥 **Video Tutorial:** [How This Talking C# Chatbot Works] https://youtu.be/pAEQVquN4AU
+
+---
+
+## Quick Demo
+
+[![Video Thumbnail]  https://youtu.be/pAEQVquN4AU
+
+Click image to watch the 5-minute code breakdown
